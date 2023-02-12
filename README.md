@@ -5,6 +5,7 @@ Rafa Satriani Al Barra
 ID GDSC 220020143
 
 Deskripsi program:
+(website belum selesai sepenuhnya karena sudah mendekati tenggat pengumpulan)
 kelanjutan dari tugas sebelumnya dengan menambahkan API theMealDB pada website yang sudah dibuat. pertama membuat penambahan search button.
 Membuat website dapat mencari meal dengan nama yang di-input oleh user, dengan menambah API pada web,
 Search meal by name
